@@ -10,7 +10,7 @@
 
 ## 📘 Project Overview
 This project demonstrates how to migrate a legacy on-premise application to a modern, scalable AWS infrastructure with **zero downtime**.  
-It showcases infrastructure automation, database migration, monitoring, and cost optimization—key skills for a Senior DevOps Engineer.
+It showcases infrastructure automation, database migration, monitoring, and cost optimization
 
 ---
 
@@ -59,4 +59,5 @@ terraform apply
 
 
 python3 ../scripts/db_backup.py
+
 
