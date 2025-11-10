@@ -26,7 +26,7 @@ It showcases infrastructure automation, database migration, monitoring, and cost
 - **Route 53** for DNS routing
 
 🖼️ *Architecture Diagram:*  
-![AWS Infrastructure Architecture](diagrams/aws-infra-architecture.png)
+![AWS Infrastructure Architecture](https://github.com/ojeojeikere-study/aws-infra-migration-automation/tree/main/aws-infra-migration-automation/diagrams/aws-infra-architecture.png)
 
 ---
 
@@ -59,5 +59,6 @@ terraform apply
 
 
 python3 ../scripts/db_backup.py
+
 
 
