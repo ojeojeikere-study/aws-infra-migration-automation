@@ -25,8 +25,7 @@ It showcases infrastructure automation, database migration, monitoring, and cost
 - **IAM Roles** with least-privilege access  
 - **Route 53** for DNS routing
 
-🖼️ *Architecture Diagram:*  
-![AWS Infrastructure Architecture](diagrams/aws-infra-architecture.png)
+
 
 ---
 
